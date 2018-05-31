@@ -1,0 +1,18 @@
+Simplified Data Encryption Standard Algorithm
+
+Programming Language: Python 2.7.13
+
+Compiling Instruction: S_DES_proj1.py is a python file which is submitted
+alongwith this document.
+User has to open this python file in any IDE based on python 2.7.13.
+Then user has to run this file.
+Program waits for user to enter the command so user has to enter
+command in following format and then press enter.
+
+Following is the example of command require to run SDES algorithm:
+mycipher -m decrypt -k 1010010001 -i 10101010 -p C:\Secure Telecom trans\plain.jpg -c C:\Secure Telecom trans\cipher.jpx
+
+This command include the function (encrypt/decrypt), Initial key(10-bit), Initial vector(8-bit), 
+Plain text file name and Cipher text file name.
+
+
